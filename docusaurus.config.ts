@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Estelar',
   tagline: 'Interstellar',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/docusLogo.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -78,7 +78,7 @@ const config: Config = {
       title: 'Estelar',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/docusLogo.png',
       },
       items: [
         {
